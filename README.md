@@ -14,7 +14,9 @@
     <li>
       <a href="#Datasets">Datasets</a>
     </li>
-     <li><a href="#Codes">Codes</a></li>
+     <li>
+       <a href="#Codes">Codes</a>
+    </li>
 
 
     
@@ -34,7 +36,7 @@ c This repository was created for the project Election Fraud at SJMC
 
 
 
-<!-- Codes-->
+<!-- Codes -->
 ## News URLs Check
 Extract & sort URLs from Media Cloud and check
 
