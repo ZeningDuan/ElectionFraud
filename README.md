@@ -31,7 +31,7 @@
 
 ## Datasets
 - Media Cloud raw URLs
-- Zyte News Data after parsingf
+- Zyte News Data after parsing
 
 
 
