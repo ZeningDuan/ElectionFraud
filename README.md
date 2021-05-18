@@ -26,7 +26,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-c This repository was created for the project Election Fraud at SJMC
+- This repository was created for the project Election Fraud at SJMC
 - [References](#references)
 
 
@@ -36,14 +36,14 @@ c This repository was created for the project Election Fraud at SJMC
 
 
 
-<!-- Codes -->
-## News URLs Check
+<!-- CODES -->
+- ## News URLs Check
 Extract & sort URLs from Media Cloud and check
 
-## Extracing News Articles
+- ## Extracing News Articles
 Parsing URLs to news textual data via Zyte
 
-## Zyte_NewsDatra_Check_After_Parsing
+- ## Zyte_NewsDatra_Check_After_Parsing
 Check news data after parsing from Zyte
  
 
