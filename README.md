@@ -14,6 +14,7 @@
     <li>
       <a href="#Datasets">Datasets</a>
     </li>
+     <li><a href="#Codes">Codes</a></li>
 
 
     
@@ -33,9 +34,17 @@ c This repository was created for the project Election Fraud at SJMC
 
 
 
-<!-- TWITTER JSON STRUCTURES-->
-## Twitter JSON Structures
-Basic tweeting types include: (Originally)**Tweeting**, **Reply**, **Retweet**, and **Quote**, while the acutual cases could be more complicated as Twitter users may adopt arbitrary combinations when tweeting, e.g., **retweet other's quote**. The differences reflect in the strcutures of the raw JSONs. 
+<!-- Codes-->
+## News URLs Check
+Extract & sort URLs from Media Cloud and check
+
+## Extracing News Articles
+Parsing URLs to news textual data via Zyte
+
+## Zyte_NewsDatra_Check_After_Parsing
+Check news data after parsing from Zyte
+ 
+
 
 
 
